@@ -1,4 +1,3 @@
-<img src="./.github/ignite.png" align="center" />
 
 </br>
 
